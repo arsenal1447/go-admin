@@ -234,33 +234,3 @@ npm run dev
 </table>
   
 
-## 🤝 特别感谢
-[chengxiao](https://github.com/chengxiao)
-[gin](https://github.com/gin-gonic/gin)
-[casbin](https://github.com/casbin/casbin)
-[spf13/viper](https://github.com/spf13/viper)
-[gorm](https://github.com/jinzhu/gorm)
-[gin-swagger](https://github.com/swaggo/gin-swagger)
-[jwt-go](https://github.com/dgrijalva/jwt-go)
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-[ruoyi-vue](https://gitee.com/y_project/RuoYi-Vue)
-
-## 🤟 打赏
-
-> 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
-
-
-<img class="no-margin" src="https://raw.githubusercontent.com/wenjianzhang/image/master/img/pay.png"  height="200px" >
-
-## ❤️ 赞助者
-
-> 有部分是微信名称
-
-zhuqiyun LLL狐 星星之火 cjj770 Sam 唐*i 晓聪 aLong *渊 海马 魏镇坪 + 111 *哥 我的宇哥哥 *声 *节
-
-## 🔑 License
-
-[MIT](https://github.com/wenjianzhang/go-admin/blob/master/LICENSE.md)
-
-Copyright (c) 2020 wenjianzhang
-
