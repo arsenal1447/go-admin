@@ -211,26 +211,5 @@ npm install --registry=https://registry.npm.taobao.org
 # 启动服务
 npm run dev
 ```
-
-## 🎬 在线体验
-> admin  /  123456
-
-演示地址：[http://www.zhangwj.com](http://www.zhangwj.com/#/login)
-
-
-## 📨 互动
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/wenjianzhang/image/master/img/wx.png" width="180px"></td>
-    <td><img src="https://raw.githubusercontent.com/wenjianzhang/image/master/img/qq.png" width="200px"></td>
-    <td><img src="https://raw.githubusercontent.com/wenjianzhang/image/master/img/qq2.png" width="200px"></td>
-  </tr>
-  <tr>
-    <td>微信</td>
-    <td>此群已满</td>
-    <td><a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=0f2bf59f5f2edec6a4550c364242c0641f870aa328e468c4ee4b7dbfb392627b"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="go-admin技术交流乙号" title="go-admin技术交流乙号"></a></td>
-  </tr>
-</table>
   
 
